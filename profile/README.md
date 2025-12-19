@@ -1,76 +1,77 @@
 # 🐘 Jprogram PHP Projects
 
-🌍 Read this in [English](README.en.md)
+🌍 Leia em [Portuguese](README.pt-br.md)
 
 ---
 
-Olá! 👋
+Hello! 👋
 
-Bem-vindo(a) ao espaço onde reúno meus projetos em **PHP** — desde scripts simples e APIs até aplicações completas desenvolvidas para praticar, testar ideias e evoluir como desenvolvedor.
-
----
-
-## 🎯 Sobre a organização
-
-Criei a **Jprogram-PHP-Projects** para centralizar tudo o que venho desenvolvendo com **PHP**.
-
-Aqui você encontrará desde exercícios e pequenos utilitários até sistemas com frameworks modernos e boas práticas de desenvolvimento web.
-
-O objetivo dessa organização é:
-
-* Consolidar meu portfólio em PHP
-* Manter um histórico da minha evolução e aprendizado
-* Experimentar diferentes abordagens, padrões e ferramentas
-* Compartilhar conhecimento e inspirar outros estudantes de PHP
+Welcome to the space where I gather my **PHP** projects — from simple scripts and APIs to complete applications developed to practice, test ideas, and grow as a developer.
 
 ---
 
-## 📦 Projetos
+## 🎯 About the organization
 
-Alguns exemplos de repositórios que você pode encontrar por aqui:
+I created **Jprogram-PHP-Projects** to centralize everything I’ve been developing with **PHP**.
 
-| Projeto                                                     | Descrição                                                             |
-| ----------------------------------------------------------- | --------------------------------------------------------------------- |
-| **[Notes](https://github.com/jprogram-php-projects/notes)** | Sistema simples de anotações em PHP com armazenamento de dados        |
-| **[MathX](https://github.com/jprogram-php-projects/MathX)** | Biblioteca e aplicação para cálculos matemáticos e operações diversas |
+Here you’ll find everything from exercises and small utilities to systems using modern frameworks and web development best practices.
 
-Confira todos os repositórios disponíveis [aqui](https://github.com/orgs/jprogram-php-projects/repositories).
+The goals of this organization are:
+
+* Consolidate my PHP portfolio
+* Keep track of my progress and learning
+* Experiment with different approaches, patterns, and tools
+* Share knowledge and inspire other PHP learners
 
 ---
 
-## 🧠 Tecnologias e práticas
+## 📦 Projects
 
-Costumo utilizar:
+Some of the repositories you’ll find here:
+
+| Project                                                     | Description                                                                  |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **[Notes](https://github.com/jprogram-php-projects/notes)** | Simple note-taking system built with PHP and local data storage              |
+| **[MathX](https://github.com/jprogram-php-projects/MathX)** | Library and application for various mathematical calculations and operations |
+| **[JPHP-Studies](https://github.com/jprogram-php-projects/jphp-studies)** | Repository dedicated to studying and experimenting with PHP 8  |
+
+Check out all repositories available [here](https://github.com/orgs/jprogram-php-projects/repositories).
+
+---
+
+## 🧠 Technologies & practices
+
+I usually work with:
 
 * **PHP 8+**
-* **Composer** para gerenciamento de dependências
-* **PDO** e **MySQL** para persistência de dados
-* **Slim**, **Laravel** ou projetos em **PHP puro**
-* Testes com **PHPUnit**
-* Foco em **código limpo**, **boas práticas** e **organização modular**
+* **Composer** for dependency management
+* **PDO** and **MySQL** for data persistence
+* **Slim**, **Laravel**, or **pure PHP** projects
+* **PHPUnit** for testing
+* Focus on **clean code**, **good practices**, and **modular organization**
 
 ---
 
-## 🤝 Contribuições
+## 🤝 Contributions
 
-Os projetos aqui são majoritariamente pessoais e de aprendizado — mas sugestões, melhorias e ideias são sempre bem-vindas!
-Se quiser contribuir, abra uma *issue* ou envie um *pull request* em algum repositório.
-
----
-
-## 📜 Licença
-
-Todos os projetos seguem a licença **MIT**, salvo indicação contrária em repositórios específicos.
+Most of these projects are personal and for learning purposes — but suggestions, improvements, and ideas are always welcome!
+If you’d like to contribute, feel free to open an *issue* or send a *pull request* in any repository.
 
 ---
 
-## 📨 Contato
+## 📜 License
+
+All projects follow the **MIT License**, unless otherwise specified in individual repositories.
+
+---
+
+## 📬 Contact
 
 * Email: **[jeffersongomes81@gmail.com](mailto:jeffersongomes81@gmail.com)**
 * LinkedIn: [https://www.linkedin.com/in/jeffersongsilva81](https://www.linkedin.com/in/jeffersongsilva81)
-* Se quiser sugerir algo ou trocar ideias, sinta-se à vontade para abrir uma *issue* ou *PR*!
+* If you’d like to share ideas or suggestions, feel free to open an *issue* or *PR*!
 
 ---
 
-Obrigado por visitar! 🚀
-Cada projeto aqui representa um passo na minha jornada de aprendizado com **PHP** e desenvolvimento web.
+Thank you for visiting! 🚀
+Each project here represents a step in my learning journey with **PHP** and web development.
